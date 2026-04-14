@@ -31,7 +31,7 @@
     (seguent-requerit ?paq - paquet ?paq2 - paquet)
     (ultim-requerit ?paq - paquet)
 
-    ; Mode d'execució
+    ; Mode d'execució -> simplea fa servir no ordenat i simpleb+simplec fan servir ordenat
     (mode-no-ordenat)
     (mode-ordenat)
   )

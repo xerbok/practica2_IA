@@ -46,7 +46,7 @@
     (cost-total)
   )
 
-  ; Si el pes total es de 5 kg, continua fent servir mou-lleuger
+  ; Si el pes total es de 5 kg justos, continua fent servir mou-lleuger
 
   (:action mou-lleuger
     :parameters (?rob - robot ?origen - casella ?desti - casella)
